@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Phishield.ai",
+  "short_name": "Phishield.ai",
+  "description": "AI-assisted phishing investigation, threat intelligence and victim protection.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#000402",
+  "theme_color": "#000402",
+  "icons": [
+    {
+      "src": "./icons/phishield.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
